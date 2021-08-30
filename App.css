@@ -1,0 +1,24 @@
+body {
+  margin: 0%;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: inherit;
+  height: 100vh;
+  background-image: linear-gradient(rgb(0, 183, 255), yellow);
+}
+.form-horizontal {
+  width: 80%;
+}
+.form-group {
+  width: inherit;
+  margin-left: 5rem;
+  margin: 1rem;
+}
+.form-control {
+  width: 90%;
+  height: 2rem;
+  padding-left: 1rem;
+}
